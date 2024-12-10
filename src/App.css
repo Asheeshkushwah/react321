@@ -1,0 +1,191 @@
+.weblogo {
+    width: 65px;
+}
+.moblogo {
+    display: none;
+}
+
+.navbar {
+    background: #000000a6 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: math;
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.c {
+
+    width: 100%;
+
+}
+
+.d {
+    color: white;
+    font-weight: 200;
+    font-family: math;
+}
+
+.e {
+    color: white;
+    font-weight: 200;
+    font-family: math;
+}
+
+
+.menu ul li:hover {
+    background: #fbac1b;
+}
+
+.img123 {
+    width: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://s3.ap-south-1.amazonaws.com/awsimages.imagesbazaar.com/900x600/19454/300-SM931947.jpg);
+    height: 300px;
+
+}
+
+.Abouta {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.Aboutb {
+    background-image: url(../image/gamebanner.jpg);
+    width: 100%;
+}
+.Aboutc {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+    color: white;
+}
+.Aboutd {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+}
+.Aboute{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.brna{
+    background: url(../image/brands.jpg);
+    width: 100%;
+    height: 600px;
+}
+.brb{
+    color: white;
+    margin-top: 315px;
+    font-size: 75px; 
+}
+
+.prc{
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+
+.ourc {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.ph1 {
+
+    background-image: url(../image/YPAshok.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.ph2 {
+    background-image: url(../image/B.R.-Sachdeva.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.ph3 {
+    background-image: url(../image/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.ph4 {
+    background-image: url(../image/JAY-PHOTO-1-1.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.ph5 {
+    background-image: url(../image/vibhutiPR.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;}
+
+@media(max-width:768px) {
+    .moblogo {
+        display: block;
+    }
+
+    .weblogo {
+        display: none;
+    }
+
+    .navbar {
+        background: #fbac1b !important;
+    }
+}
